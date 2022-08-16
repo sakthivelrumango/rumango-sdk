@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+   "module": "Commonjs",
+   "target": "es2015",
+   "sourceMap": true,
+   "outDir": "chat",
+   "noImplicitAny": true,
+   "declaration":true                              /* Skip type checking all .d.ts files. */
+  },
+  "include": ["chat/**/*"],
+  "exclude": ["node_modules"]
+}

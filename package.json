@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "sakthivelrumango"
+  },
+  "bugs": {
+    "url": "https://github.com/sakthivelrumango/rumango-sdk/issues"
+  },
+  "description": "A complete chat solution.",
+  "keywords": [
+    "chat",
+    "messaging",
+    "chat",
+    "sdk",
+    "pro",
+    "message",
+    "sdk"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "RumangoChat.js",
+  "name": "rumango-sdk",
+  "files": ["/dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"npx tsc"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
